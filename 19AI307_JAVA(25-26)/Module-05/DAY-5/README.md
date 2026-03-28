@@ -36,8 +36,8 @@ To write a Java program that calculates and prints the square of n input numbers
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: YUVAN SUNDAR S
-Register Number: 212223040250
+Developed by: Mohamed Abrar M
+Register Number: 212223040111
 */
 ```
 
